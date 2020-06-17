@@ -28,6 +28,6 @@ The hypotheses investigated were two univariate models, and one multivariate mod
 2. Participants were asked to recall 2 sets of 10 nonsense syllables to assess memory.
 
 ## Results
-![results](results.png)
+![results](results.PNG)
 
 Univariate slopes were nonsignificant. However, a significant interaction effect emerged--those with higher levels of placebo knowledge showed a stronger placebo effect (improved memory performance in the treatment condition) as compared to those with lower levels of placebo knowledge.
